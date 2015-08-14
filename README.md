@@ -71,9 +71,9 @@ In the directory `/etc/apache2/sites-enabled` create a new file `easyts` with th
 </VirtualHost>
 ~~~
 
-LICENSE
+# LICENSE
 
-Easy TS - __Easy__ __T__ime __S__eries storage server
+Easy TS - Easy Time Series storage server
 Copyright (C) 2014  Sysvalue, S.A.
 
 This program is free software: you can redistribute it and/or modify
